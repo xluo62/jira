@@ -10,7 +10,7 @@ import { LoginScreen } from "./screens/login";
 function App() {
   return (
     <div className="App">
-      <ProjectListScreen />
+      {/*<ProjectListScreen />*/}
       {/*<Test></Test>*/}
       {/*<TsReactTest/>*/}
       <LoginScreen />
