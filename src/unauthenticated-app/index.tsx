@@ -8,7 +8,6 @@ import left from "assets/logo.svg";
 import right from "assets/logo.svg";
 export const UnauthenticatedApp = () => {
   const [isRegistered, setIsRegistered] = useState(false);
-
   return (
     <Container>
       <Header />
